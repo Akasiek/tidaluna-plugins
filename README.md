@@ -2,7 +2,7 @@
 
 ## List of plugins
 
-### [LuckyLP](https://github.com/Akasiek/tidaluna-plugins/tree/main/plugins/LuckyLP)
+### [LuckyLP](https://github.com/Akasiek/tidaluna-plugins/tree/master/plugins/LuckyLP)
 
 Plugin that adds a button for getting a random album from the library.
 
