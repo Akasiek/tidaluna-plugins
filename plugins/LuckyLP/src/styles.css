@@ -1,0 +1,18 @@
+.luckyBtnContainer > button {
+    margin-left: 16px;
+    display: flex;
+    align-items: center;
+    transition: fill .15s ease;
+    fill: #000000;
+}
+
+.luckyBtnContainer > button:hover:not(:disabled) {
+    fill: #111111;
+}
+
+.luckyBtnContainer > button > svg {
+    width: 25px;
+    height: 25px;
+    transform: scale(0.67);
+}
+

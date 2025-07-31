@@ -1,0 +1,11 @@
+{
+	"name": "@akasiek/LuckyLP",
+	"description": "Get random album from your favorites.",
+	"author": {
+		"name": "Akasiek",
+		"url": "https://github.com/akasiek",
+		"avatarUrl": "https://0.gravatar.com/avatar/856bd61035353132c44898060f4daf75b583d40c357dfdaa18d12f8d98bcbd96?size=256&d=initials"
+	},
+	"main": "./src/index.ts",
+	"type": "module"
+}
